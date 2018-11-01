@@ -10,9 +10,9 @@ Data from: http://mlr.cs.umass.edu/ml/datasets/Census+Income
 
 Analysis and classification was done in two different notebooks.
 
-1. Analysis: https://github.com/itdxer/adult-dataset-analysis/blob/master/Data%20analysis.ipynb
+1. [Data Analysis](https://github.com/itdxer/adult-dataset-analysis/blob/master/Data%20analysis.ipynb)
 
-2. Classification: https://github.com/itdxer/adult-dataset-analysis/blob/master/Adult%20dataset%20classification.ipynb
+2. [Classification](https://github.com/itdxer/adult-dataset-analysis/blob/master/Classification.ipynb)
 
 ## Software
 
